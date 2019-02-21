@@ -1,0 +1,9 @@
+{
+  "name": "horizon-prismjs-theme",
+  "homepage": "https://github.com/jolaleye/horizon-theme-vscode",
+  "version": "1.0.2",
+  "main": "index.js",
+  "repository": "https://github.com/KeziahMoselle/horizon-prismjs-theme",
+  "author": "KeziahMoselle <keziah.moselle@gmail.com>",
+  "license": "MIT"
+}
