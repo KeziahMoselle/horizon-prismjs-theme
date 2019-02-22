@@ -28,7 +28,7 @@ pre[class*="language-"] {
 }
 
 code.language-text {
-  padding: 0.1em 0.5em;
+  padding: 0.1em 0.5em !important;
 }
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
