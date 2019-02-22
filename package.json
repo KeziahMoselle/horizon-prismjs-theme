@@ -1,7 +1,7 @@
 {
   "name": "horizon-prismjs-theme",
   "homepage": "https://github.com/jolaleye/horizon-theme-vscode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "https://github.com/KeziahMoselle/horizon-prismjs-theme",
   "author": "KeziahMoselle <keziah.moselle@gmail.com>",
